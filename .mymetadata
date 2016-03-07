@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="dangdangpackage0"
+  name="dangdangpackage"
   id="myeclipse.1340105561183"
   context-root="/dangdangpackage0"
   j2ee-spec="1.4"
-  archive="dangdangpackage0.war">
+  archive="dangdangpackage.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>

@@ -1,0 +1,136 @@
+.head_top0 {
+  width: 961px;
+  height: 130px;
+  margin: 8px auto;
+  background-color: white;
+}
+.head_top {
+  width: 961px;
+  height: 20px;
+  margin: 0px auto;
+  background-color: white;
+}
+.head_top1 {
+  width: 190px;
+  float: left;
+}
+.head_top2 {
+  width: 185px;
+  height: 20px;
+  background-image: url("./images/main_obp.jpg");
+  float: right;
+}
+.head_center {
+  width: 961px;
+  height: 110px;
+  background-image: url("./images/main_oracle.jpg");
+  margin: 4px auto;
+}
+.head_bottom {
+  width: 961px;
+  height: 60px;
+  background-image: url("./images/main_ad.jpg");
+  margin: 4px auto;
+}
+.book {
+  margin: 2px auto 0;
+  width: 961px;
+  height: 1200px;
+  background-color: white;
+}
+.left0 {
+  width: 180px;
+  height: 450px;
+  margin: 20px 15px;
+  border: gray 2px solid;
+  float: left;
+}
+.left_1 {
+  width: 180px;
+  height: 24px;
+}
+.left_2 {
+  width: 180px;
+  height: 130px;
+}
+.left_3 {
+  width: 180px;
+  height: 130px;
+}
+.left_4 {
+  width: 180px;
+  height: 130px;
+} 
+.left_5 {
+  width: 180px;
+  height: 24px;
+}
+.book_center {
+  margin: 10px 1px 20px;
+  width: 530px;
+  float: left;
+  background-color: white;
+}   
+.second_c_border1 {
+  margin: 5px 15px;
+}
+div.book_c_border2 {
+  margin: 5px 15px;
+}
+.right {
+  width: 170px;
+  height: 200px;
+  float: right;
+  background-color: white;
+  margin: 20px 20px 20px 0;
+}
+.right_1 {
+  width: 150px;
+  height: 20px;
+  float: right;
+  background-color: white;
+}
+.right_2 {
+  width: 150px;
+  height: 20px;
+  float: right;
+  background-color: white;
+}
+.right_2_1 {
+  width: 20px;
+  height: 20px;
+  margin: 5px 0;
+  float: left;
+}
+.right_2_2 {
+  width: 90px;
+  height: 25px;
+  margin: 3px 0;
+  float: left;
+}
+.bottom {
+  width: 962px;
+  height: 60px;
+  margin: 0 auto;
+  background-color: white;
+  border: gray 1px solid;
+}
+.bottom_1 {
+  width: 400px;
+  height: 35px;
+  margin: 1px auto;
+  float: left;
+  padding-left: 100px;
+}
+.bottom_2 {
+  width: 45px;
+  height: 60px;
+  margin: 1px auto;
+  float: left;
+}
+.bottom_3 {
+  width: 180px;
+  height: 35px;
+  margin: 1px auto;
+  float: left;
+}

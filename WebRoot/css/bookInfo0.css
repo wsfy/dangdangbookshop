@@ -1,0 +1,134 @@
+.head {
+  width: 900px;
+  height: 400px;
+  margin: 0 auto 0;
+  background-color: white;
+}
+.head_top {
+  width: 900px;
+  height: 50px;
+  margin: 0 auto 0;
+  background-color: white;
+}
+.head_top_0 {
+  width: 750px;
+  height: 50px;
+  margin: 0 auto 0;
+  padding: 0 0 0 0;
+  background-color: white;
+  border-bottom: gray 1px solid;
+}
+.head_bottom {
+  width: 700px;
+  height: 340px;
+  margin: 2px auto 0;
+  background-color: white;
+  border-bottom: gray 1px solid;
+}
+.head_1 {
+  width: 220px;
+  height: 280px;
+  margin: 4px 4px 4px 40px;
+  float: left;
+}
+.head_2 {
+  width: 380px;
+  height: 280px;
+  float: left;
+}
+.head_2_1 {
+  width: 350px;
+  height: 245px;
+  margin: 4px auto 0;
+  float: left;
+}
+.head_2_2 {
+  width: 80px;
+  height: 28px;
+  margin: 1px 0 0 58px;
+  background-image: url("./images/buttom_goumai.gif");
+  float: left;
+}
+.second_c_border1 {
+  width: 870px;
+  margin: 5px 15px;
+}
+.book_c_border2 {
+  margin: 5px 15px;
+}
+.center {
+  width: 900px;
+  height: 780px;
+  margin: 0 auto;
+  background-color: white;
+}
+.center_1 {
+  width: 400px;
+  height: 120px;
+  margin: 0 auto 4px;
+  border-bottom: gray 1px solid;
+}
+.center_1_1 {
+  margin: 7px 6px 4px 0;
+  float: left;
+}
+.center_1_2 {
+  width: 48px;
+  margin: 0 auto 4px;
+  float: left;
+}
+.center_2 {
+  width: 400px;
+  height: 120px;
+  margin: 4px auto;
+  border-bottom: gray 1px solid;
+}
+.center_3 {
+  width: 400px;
+  height: 120px;
+  margin: 4px auto;
+  border-bottom: gray 1px solid;
+}
+.center_4 {
+  width: 400px;
+  height: 100px;
+  margin: 4px auto;
+  border-bottom: gray 1px solid;
+}
+.center_5 {
+  width: 400px;
+  height: 100px;
+  margin: 4px auto;
+  border-bottom: gray 1px solid;
+}
+.center_6 {
+  width: 400px;
+  height: 150px;
+  margin: 4px auto;
+}
+.bottom {
+  width: 900px;
+  height: 60px;
+  margin: 0 auto;
+  background-color: white;
+  border-top: gray 1px solid;
+}
+.bottom_1 {
+  width: 480px;
+  height: 35px;
+  margin: 1px auto;
+  float: left;
+  padding-left: 100px;
+}
+.bottom_2 {
+  width: 45px;
+  height: 60px;
+  margin: 1px auto;
+  float: left;
+}
+.bottom_3 {
+  width: 180px;
+  height: 35px;
+  margin: 1px auto;
+  float: left;
+}
